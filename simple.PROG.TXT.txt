@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIGNESHWARAN G - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #222;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            color: #222;
+            border-bottom: 2px solid #555;
+            padding-bottom: 5px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #222;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>VIGNESHWARAN G</h1>
+        <p>Web Developer | Designer | Tech Enthusiast</p>
+    </header>
+
+    <div class="container">
+
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! I'm VIGNESHWARAN G, a passionate web developer with a keen interest in creating clean and user-friendly websites. I love learning new technologies and applying them to solve real-world problems.</p>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML5, CSS3, JavaScript</li>
+                <li>Responsive Web Design</li>
+                <li>Frontend Frameworks (e.g., Bootstrap)</li>
+                <li>Version Control (Git, GitHub)</li>
+            </ul>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li><strong>Personal Portfolio Website:</strong> A responsive site to showcase my skills and projects.</li>
+                <li><strong>To-Do List App:</strong> Built using vanilla JavaScript for task management.</li>
+                <li><strong>Landing Page:</strong> Designed a modern landing page using HTML/CSS and Bootstrap.</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:vigneshwaran@example.com">vigneshwaran@example.com</a></p>
+            <p>GitHub: <a href="https://github.com/vigneshwarang" target="_blank">github.com/vigneshwarang</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/vigneshwarang" target="_blank">linkedin.com/in/vigneshwarang</a></p>
+        </section>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2025 VIGNESHWARAN G. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
